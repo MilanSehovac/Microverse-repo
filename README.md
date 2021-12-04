@@ -1,7 +1,7 @@
 # Microverse
 
-Desc
+Desc 
 
 ## Coding Challange
 
-First code 
+First coding challange 
